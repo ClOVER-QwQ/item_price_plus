@@ -1,0 +1,2 @@
+# item_price_plus
+item_price的改进工程用kotlin进行了重写，将文件记录改成数据库记录，采用Spring框架增加了扫码记录功能
