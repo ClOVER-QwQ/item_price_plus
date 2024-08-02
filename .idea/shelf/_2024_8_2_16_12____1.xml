@@ -1,0 +1,24 @@
+<changelist name="在进行签出之前于_2024_8_2_16_12_取消提交了更改_[更改]1" date="1722586349251" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_8_2_16_12_取消提交了更改_[更改]1/shelved.patch" />
+  <option name="DESCRIPTION" value="在进行签出之前于 2024/8/2 16:12 取消提交了更改 [更改]" />
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.5/fileHashes/fileHashes.bin" />
+    <option name="AFTER_PATH" value=".gradle/7.5/fileHashes/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_8_2_16_12_取消提交了更改_[更改]1/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_8_2_16_12_取消提交了更改_[更改]1/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.5/executionHistory/executionHistory.lock" />
+    <option name="AFTER_PATH" value=".gradle/7.5/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_8_2_16_12_取消提交了更改_[更改]1/executionHistory.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.5/fileHashes/fileHashes.lock" />
+    <option name="AFTER_PATH" value=".gradle/7.5/fileHashes/fileHashes.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2024_8_2_16_12_取消提交了更改_[更改]1/fileHashes.lock" />
+  </binary>
+</changelist>

@@ -1,0 +1,24 @@
+Index: .idea/modules/item_price.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$/../..\">\r\n      <excludeFolder url=\"file://$MODULE_DIR$/../../.gradle\" />\r\n      <excludeFolder url=\"file://$MODULE_DIR$/../../build\" />\r\n    </content>\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules/item_price.iml b/.idea/modules/item_price.iml
+--- a/.idea/modules/item_price.iml	(revision 2e9ed7ab08cde06ac9145d7c67c47b0ce3004468)
++++ b/.idea/modules/item_price.iml	(date 1722586334839)
+@@ -1,9 +1,11 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <module version="4">
+-  <component name="NewModuleRootManager">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
+     <content url="file://$MODULE_DIR$/../..">
+       <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
+       <excludeFolder url="file://$MODULE_DIR$/../../build" />
+     </content>
++    <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
